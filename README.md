@@ -19,7 +19,7 @@
 4. 插件自动生效，无需额外配置
 
 ### 方式2：本地开发安装
-1. 克隆代码到本地：`git clone https://github.com/your-username/original-badge-plugin.git`
+1. 克隆代码到本地：`git clone [https://github.com/your-username/original-badge-plugin.git](https://github.com/Mark-ait/Wordpress-Original.git)`
 2. 将整个文件夹上传至 WordPress 站点的 `/wp-content/plugins/` 目录
 3. 后台插件页面启用「文章原创角标（带批量设置）」
 
