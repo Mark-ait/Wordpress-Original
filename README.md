@@ -1,5 +1,3 @@
-# Wordpress-Original
-为 WordPress 文章添加原创标识角标的轻量级插件，支持单篇 / 批量设置原创状态，仅在文章列表、分类页等列表类页面显示角标，单篇详情页不显示，完美适配各类主题的图片容器样式。
 # WordPress 文章原创角标插件 (Original Badge for WordPress)
 ![WordPress 版本](https://img.shields.io/badge/WordPress-5.0+-blue.svg) ![PHP 版本](https://img.shields.io/badge/PHP-7.0+-green.svg) ![许可证](https://img.shields.io/badge/license-MIT-yellow.svg)
 
